@@ -109,5 +109,3 @@ npm run seed
 - Email: admin@sprintflow.dev
 - Password: Password123!
 
-## Screenshots
-Add your screenshots here.
