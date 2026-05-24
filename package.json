@@ -1,0 +1,10 @@
+{
+  "name": "sprintflow",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "client": "npm --prefix client run dev",
+    "server": "npm --prefix server run dev",
+    "seed": "npm --prefix server run seed"
+  }
+}
